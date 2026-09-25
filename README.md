@@ -1,4 +1,7 @@
 # CRUD-MVC-Agile
+
+[CSCI_2479_Project_Scope_Outline_and_Deliverables.docx](https://github.com/user-attachments/files/32655967/CSCI_2479_Project_Scope_Outline_and_Deliverables.docx)
+
 build a CRUD app following the MVC design pattern with the Agile practic
 
 
