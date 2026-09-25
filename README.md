@@ -7,6 +7,7 @@ My service [Luke's Laptop Loaners ](https://github.com/user-attachments/files/32
 - via a **mobile truck**,
     -  - with Wi-Fi
     -  with a picture of the mobile truck on the CRUD Application
+– Via **pickup at local office** (billing by semester/month)
 
   - Hourly rate = $20/hr (min 4 people must sign up for truck scheduling)
  - PCs
@@ -14,7 +15,7 @@ My service [Luke's Laptop Loaners ](https://github.com/user-attachments/files/32
 -   MacBook (Nano) PC- $110/$120mo
 -  MacBook (Air) PC- $130/$140mo
 -  MacBook (Pro) - $150/$160mo
-– Via **pickup at local office** (billing by semester/month)
+Desktop
 -  Dell desktop computer - $200/$220mo
 -  iMac desktop computer - $260/$280mo
 -  Mac Pro Desktop computer - $300/$320mo
