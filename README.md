@@ -1,5 +1,7 @@
 # CRUD-MVC-Agile
+
 [CSCI_2479_Project_Scope_Outline_and_Deliverables.docx](https://github.com/user-attachments/files/32655967/CSCI_2479_Project_Scope_Outline_and_Deliverables.docx)
+I decided on an E-Commerce Application 
 
 My service [Luke's Laptop Loaners ](https://github.com/user-attachments/files/32657472/Luke.s.Laptop.Loaners.pdf)
  will be delivered to new customers in three ways:
