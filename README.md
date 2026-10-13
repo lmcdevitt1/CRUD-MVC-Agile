@@ -11,7 +11,7 @@ My service [Luke's Laptop Loaners ](https://github.com/user-attachments/files/32
  
 - via a **mobile truck**,
     -  - with Wi-Fi
-    -  with a picture of the mobile truck on the CRUD Application
+    -  with an AI picture of the mobile truck on the E-Commerce Application
 – Via **pickup at local office** (billing by semester/month)
 
   - Hourly rate = $20/hr (min 4 people must sign up for truck scheduling)
