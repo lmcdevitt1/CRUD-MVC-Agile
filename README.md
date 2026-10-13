@@ -1,5 +1,5 @@
 # CRUD-MVC-Agile
-I will be doing an E-Commerce Application that is based on another project that I did for another class: BMGT-1101: I have everything saved, but I dont have the E-Commerce "Web" Application set up yet. I would like to get that set up. The information about the project that I did for the other class is under <ins>"Luke's Laptop Loaners"</ins>
+I will be doing an E-Commerce Application that is based on another project that I did for another class: BMGT-1101: I have everything saved, but I dont have the E-Commerce "Web" Application set up yet. I would like to get that set up. The information about the project that I did for the other class is under <ins>"Luke's Laptop Loaners"</ins> below.
 
 
 [CSCI_2479_Project_Scope_Outline_and_Deliverables.docx](https://github.com/user-attachments/files/32655967/CSCI_2479_Project_Scope_Outline_and_Deliverables.docx)
