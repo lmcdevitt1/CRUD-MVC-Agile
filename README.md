@@ -17,7 +17,7 @@ My service [Luke's Laptop Loaners ](https://github.com/user-attachments/files/32
   - Hourly rate = $20/hr (min 4 people must sign up for truck scheduling)
  - PCs
 -  Dell PC - $100/$110mo
--   MacBook (Nano) PC- $110/$120mo
+-   MacBook (Neo) PC- $110/$120mo
 -  MacBook (Air) PC- $130/$140mo
 -  MacBook (Pro) - $150/$160mo
 Desktop
