@@ -1,1 +1,1 @@
-export * from 'vitest/browser';
+export * from '@vitest/browser';

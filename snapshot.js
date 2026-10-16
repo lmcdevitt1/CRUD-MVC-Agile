@@ -1,1 +1,1 @@
-export * from 'vitest/snapshot';
+export * from '@vitest/snapshot';
